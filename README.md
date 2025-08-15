@@ -6,6 +6,6 @@ I am an engineer who usually creates applications using TypeScript.
 
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayukata&layout=donut)](https://github.com/nayukata/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayukata&layout=donut)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nayukata&theme=onedark)](https://github.com/nayukata/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=nayukata&theme=onedark)
