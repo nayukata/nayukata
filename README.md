@@ -6,4 +6,4 @@ I am an engineer who usually creates applications using TypeScript.
 
 
 ## Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=nayukata&theme=onedark)](https://github.com/nayukata/github-profile-trophy)
+![trophy](https://github-trophies.vercel.app/?username=nayukata)
